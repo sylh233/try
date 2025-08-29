@@ -1,0 +1,8 @@
+[
+{
+  "directory": "Y:/Cpp_work/git_try/build",
+  "command": "F:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\gt.dir\\try.cpp.obj -c Y:\\Cpp_work\\git_try\\try.cpp",
+  "file": "Y:/Cpp_work/git_try/try.cpp",
+  "output": "CMakeFiles/gt.dir/try.cpp.obj"
+}
+]

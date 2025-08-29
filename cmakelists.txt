@@ -2,4 +2,6 @@ cmake_minimum_required(VERSION 4.0)
 
 project(GITTRY)
 
-add_executable(gittry try.cpp)
+set(HOME ..)
+set(EXECUTABLE_OUTPUT_PATH ${HOME})
+add_executable(gt try.cpp)
